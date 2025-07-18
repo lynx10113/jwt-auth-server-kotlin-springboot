@@ -50,7 +50,6 @@ A stateless authentication REST API built with **Kotlin + Spring Boot**, using *
 | Framework | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.3-brightgreen?logo=springboot)               |
 | Auth      | ![JWT](https://img.shields.io/static/v1?label=JWT&message=HS256&color=purple&logoColor=blue&logo=jsonwebtokens)                            |
 | Database & BaaS | <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql&logoColor=blue" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Platform-Supabase-3ECF8E?logo=supabase&logoColor=3ECF8E" alt="Supabase" /> |
-| ORM       | <img src="https://img.shields.io/badge/Persistence-Spring%20Data%20JPA-6DB33F?logo=spring&color=green&logoColor=green" alt="Spring Data JPA"/>
-                                                                                          |
-| Build Tool | Gradle (Kotlin DSL)                                                                                    |                                                |
+| ORM       | <img src="https://img.shields.io/badge/Persistence-Spring%20Data%20JPA-6DB33F?logo=spring&color=green&logoColor=green" alt="Spring Data JPA"/> |
+| Build Tool | Gradle (Kotlin DSL)                                                                                    |
 
